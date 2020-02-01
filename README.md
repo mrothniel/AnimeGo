@@ -1,5 +1,5 @@
 # AnimeGo
-Pour formation a la certification "Go FullStack avec SpringBoot et Angular 6" cour sur Udemy
+Exercice pour la certification "Go FullStack avec SpringBoot et Angular 6"
 # Les compétences mises en avant:
 - créer une API REST (Entités, Services, Contrôleurs, Configuration) en utilisant le Framework Spring Boot
 - présenter sous forme de carte permettant l'ajout, modification, suppression, tri, le partage et la recherche des caractères
